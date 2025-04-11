@@ -1,23 +1,48 @@
-# Arquivos de configuração do editor
-.vscode/
-.idea/
-
-# Arquivos de build
+# Diretórios de build
 bin/
 obj/
 
-# Arquivos do Visual Studio
+# Diretórios de IDEs
+.vscode/
+.idea/
+.vs/
+
+# Arquivos de configuração do Visual Studio
+*.suo
 *.user
 *.userosscache
-*.suo
 *.sln.docstates
 
-# Arquivos do Rider
+# Arquivos de cache do Rider
 .idea/
 
-# Arquivos temporários do Visual Studio
-*.vs
-*.vscode
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
 
-# Arquivos de pacotes NuGet
+# Arquivos de log
+*.log
+
+# Arquivos de pacote NuGet
 *.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de publicação
+.publish/
+
+# Configurações do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Backup do VS Code
+.history/
+
+# Ignorar pastas específicas do repositório
+**/bin/
+**/obj/
