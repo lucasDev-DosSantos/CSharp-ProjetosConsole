@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{867DA620-1CFE-4B32-A8B2-D4A9F1ABE1DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSena", "MegaSena\MegaSena.csproj", "{7BD7A9A7-8DC2-4D54-9F13-F7A9DF626397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{867DA620-1CFE-4B32-A8B2-D4A9F1ABE1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{867DA620-1CFE-4B32-A8B2-D4A9F1ABE1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{867DA620-1CFE-4B32-A8B2-D4A9F1ABE1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD7A9A7-8DC2-4D54-9F13-F7A9DF626397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD7A9A7-8DC2-4D54-9F13-F7A9DF626397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD7A9A7-8DC2-4D54-9F13-F7A9DF626397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD7A9A7-8DC2-4D54-9F13-F7A9DF626397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
