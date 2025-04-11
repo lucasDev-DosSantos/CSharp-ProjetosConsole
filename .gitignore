@@ -1,0 +1,23 @@
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos do Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Arquivos do Rider
+.idea/
+
+# Arquivos temporários do Visual Studio
+*.vs
+*.vscode
+
+# Arquivos de pacotes NuGet
+*.nupkg
