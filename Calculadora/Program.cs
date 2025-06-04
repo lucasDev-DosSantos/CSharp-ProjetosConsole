@@ -14,10 +14,10 @@ internal class Program
             Console.Clear();
 
             string titulo = @"█▓▒▒░░░ Calculadora ░░░▒▒▓█";
-            string Mensagem = "\n1 - Soma\t2 - Subtração\t3 - Divisão\t4 - Multiplicação\t0 - Sair";
+            string Mensagem = "\n1 - Soma \n2 - Subtração\n3 - Divisão\n4 - Multiplicação\n0 - Sair";
 
             Console.WriteLine(titulo.PadLeft(Mensagem.Length));
-            Console.WriteLine("Escolha uma das operação abaixo:\n" + Mensagem + "\n");
+            Console.WriteLine("Escolha uma das operações abaixo:\n" + Mensagem + "\n");
 
             string escolhaDoUsuario = Console.ReadLine()!;
 
