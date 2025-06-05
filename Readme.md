@@ -25,7 +25,7 @@ Uma aplicação que Simula o sorteio da Mega-Sena. Neste projeto, você aprender
 
 - Classe Random - para gerar número aleatórios.
 
->([Projeto MegaSena: **CLIQUE AQUI** ](https://https://github.com/lucasDev-DosSantos/CSharp-ProjetosConsole/tree/master/MegaSena))
+>([Projeto MegaSena: **CLIQUE AQUI** ](https://github.com/lucasDev-DosSantos/CSharp-ProjetosConsole/tree/master/MegaSena))
 
 ## Como usar
 
